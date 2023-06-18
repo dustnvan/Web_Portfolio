@@ -101,8 +101,9 @@ body {
   
 }
 
-@media only screen and (max-width: 680px) {
-  .description p {
+@media (max-width: 650px) {
+  .right-side  {
     font-size: 14px;
+    display: none;
   }
 }
