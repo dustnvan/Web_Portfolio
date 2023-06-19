@@ -1,1 +1,1 @@
-﻿[![https://dustnvan.github.io/](images/portfolio_preview.jpg)](https://dustnvan.github.io/){:target="_blank"}
+[![https://dustnvan.github.io/](images/portfolio_preview.jpg)](https://dustnvan.github.io/)
